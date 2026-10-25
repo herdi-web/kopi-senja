@@ -1,0 +1,37 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 9rem;
+}
+
+body {
+  background-color: #1a1a19;
+}
+
+.cklt {
+  color: #c3a265;
+}
+
+.des {
+  color: #b7b09e;
+}
+
+nav {
+  background-color: rgba(26, 26, 25, 80%);
+  backdrop-filter: blur(10px);
+}
+
+#hero {
+  background-image: url(../img/bg-hero.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.h-30 {
+  height: 30rem;
+}
+
+#hero p {
+  background: linear-gradient(rgba(26, 26, 25, 80%));
+  max-width: 28rem;
+}
